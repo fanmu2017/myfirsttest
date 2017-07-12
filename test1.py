@@ -1,3 +1,1 @@
-print ('hello,git!')
-print ('push??')
-print ("try")
+print('to add')
