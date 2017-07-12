@@ -1,2 +1,5 @@
-print('test')
-print('nowhy')
+def printStr():
+    print('you are ..')
+
+if __name__ == "__main__":
+    printStr()
