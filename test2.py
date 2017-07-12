@@ -1,2 +1,2 @@
 print('test')
-print('justtest')
+print('nowhy')
